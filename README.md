@@ -19,12 +19,4 @@
 <a href="https://linkedin.com/in/morganelemoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morganelemoal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23440798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23440798" height="30" width="40" /></a>
 <a href="https://medium.com/@morgan_lm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@morgan_lm" height="30" width="40" /></a>
-<p align="left">
-  
-- 📫 How to reach me **lets.morganise.it@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/morganelemoal/](https://www.linkedin.com/in/morganelemoal/)
-
-</p>
-
 
