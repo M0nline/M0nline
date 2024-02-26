@@ -11,7 +11,7 @@
 
 <p align="center">
   
-![Morgane's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0nline&show_icons=true&theme=tokyonight)
+![Morgane's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0nline&show_icons=true&theme=calm)
 
 </p>
 
