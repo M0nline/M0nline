@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Morgane Le Moal</h1>
 <h3 align="center">Future full-stack developer currently studying at Ada Tech School in Paris</h3>
 <p>
-  After dedicating nine wonderful years to serving customers and users in a SaaS environment, I am currently pursuing a certified full-stack web development program (equivalent to a bachelor's degree). This nine-month intensive course emphasizes independence, adaptability, and collaboration. 
+  After dedicating nine wonderful years to serving customers and users in a SaaS environment, I am currently pursuing a certified full-stack web development program (equivalent to a bachelor's degree). This nine-month intensive course emphasizes independence, adaptability and collaboration. 
 </p>
   
   *To complement my learning, I am seeking the perfect company to undertake a 12-month internship (4 days per week starting from the second semester of 2024).*
