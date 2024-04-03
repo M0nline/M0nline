@@ -34,7 +34,7 @@
             alt="nodejs" width="40" height="40" /> </a> 
         <a href="https://www.photoshop.com/en" target="_blank"
         rel="noreferrer"> <img
-            src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/langfr-120px-Adobe_Photoshop_CC_icon.svg.png)"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/langfr-120px-Adobe_Photoshop_CC_icon.svg.png"
             alt="photoshop" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
