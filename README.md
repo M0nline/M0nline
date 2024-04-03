@@ -11,7 +11,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=1717632000&v=beta&t=eBHuk3eaUt67a7W2FwAEFv029Reo-BtO7DzdcRKMIrI"
-            alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
+            alt="express" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
             height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
@@ -24,10 +24,12 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40"
             height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png"
-            alt="laravel" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
+            alt="laravel" width="40" height="40" /> </a>
+          <a href="https://www.vercel.com/" target="_blank"
         rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel"
+            width="40" height="40" /> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-120px-Node.js_logo.svg.png"
@@ -49,7 +51,9 @@
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a> </p>
+            alt="typescript" width="40" height="40" /> </a> 
+            <a href="https://www.supabase.com target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/NuBWxGpdF0YzNSr7x_Tc8EEFXbQoHc0Xf9rU_ehxFPRikw8YPN886HltWeMDihKU8v5SeKFI3B4=s176-c-k-c0x00ffffff-no-rj" alt="supabase" width="40" height="40 /></a>
+</p>
 
 <p align="center">
   
