@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+        <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=1717632000&v=beta&t=eBHuk3eaUt67a7W2FwAEFv029Reo-BtO7DzdcRKMIrI"
             alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
             height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
@@ -30,10 +30,11 @@
             width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/langfr-120px-Adobe_Photoshop_CC_icon.svg.png"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-120px-Node.js_logo.svg.png"
+            alt="nodejs" width="40" height="40" /> </a> 
+        <a href="https://www.photoshop.com/en" target="_blank"
         rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+            src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/langfr-120px-Adobe_Photoshop_CC_icon.svg.png)"
             alt="photoshop" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
