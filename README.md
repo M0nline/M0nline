@@ -6,7 +6,7 @@
   
   *To complement my learning, I am seeking the perfect company to undertake a 12-month internship (4 days per week starting from the second semester of 2024).*
 
-<h3 align="left">Currently learning web development using :</h3>
+<p>I'm currently learning web development using :</p>
 <p align="left">
 <h2 align="left">Languages & frameworks</h2>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
