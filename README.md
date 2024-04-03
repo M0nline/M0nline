@@ -35,7 +35,7 @@
         alt="typescript" width="40" height="40" /> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-120px-Node.js_logo.svg.png"
-        alt="nodejs" width="40" height="40" /> </a>
+        alt="nodejs" height="40" /> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=1717632000&v=beta&t=eBHuk3eaUt67a7W2FwAEFv029Reo-BtO7DzdcRKMIrI"
         alt="express" height="40" /> </a>
