@@ -3,20 +3,22 @@
 
   <h3>🚀 About Me</h3>
 <p>
-I'm a future Full-Stack Developer currently honing my skills at Ada Tech School in Paris. With a background of nine years in customer service within a SaaS environment, I've decided to pivot my career towards web development. I'm enrolled in a nine-month, intensive, certified full-stack web development program, aiming for a qualification equivalent to a bachelor's degree.  
+I'm a future Full-Stack Developer currently honing my skills at Ada Tech School in Paris. With a background of nine years in customer service within a SaaS environment, I've decided to pivot my career towards web development. </br>I'm enrolled in a nine-month, intensive, certified full-stack web development program, aiming for a qualification equivalent to a bachelor's degree.  </br>
   This program is designed around principles like independence, adaptability, and collaboration.</p>
 
 
   <h3>🎯 Internship Goals</h3>
 <p>
-I'm on the lookout for the perfect opportunity to apply my learning in a real-world setting through a 12-month internship.</br>
-Ideally, this role would start from July of 2024, allowing me to work 4 days per week while I complete my studies.</p>
+I'm on the lookout for :
+  * a 12-month internship
+* starting July of 2024
+* 4 days per week</p>
 
 <h3>💼 Why Me?</h3>
-<p>
-Customer-focused: Nine years of experience ensuring customer satisfaction in a tech environment.</br>
-Adaptable & Collaborative: Thrive in settings that require quick learning and teamwork.</br>
- Technically Skilled: A strong foundation in web development technologies and best practices.</p>
+<p>  
+* Customer-focused: Nine years of experience ensuring customer satisfaction in a tech environment.</br>
+* Adaptable & Collaborative: Thrive in settings that require quick learning and teamwork.</br>
+* Technically Skilled: A strong foundation in web development technologies and best practices.</p>
 
 <h3>📫 How to Reach Me</h3>
 <p>
