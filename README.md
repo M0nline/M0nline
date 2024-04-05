@@ -1,12 +1,29 @@
 <h1 align="center">Hi 👋🏻, I'm Morgane Le Moal</h1>
 <h3 align="center">Future full-stack developer currently studying at Ada Tech School in Paris</h3>
 <p>
-  After dedicating nine wonderful years to serving customers and users in a SaaS environment, I am currently pursuing a certified full-stack web development program (equivalent to a bachelor's degree). This nine-month intensive course emphasizes independence, adaptability and collaboration. 
+  🚀 About Me
+I'm a future Full-Stack Developer currently honing my skills at Ada Tech School in Paris. With a background of nine years in customer service within a SaaS environment, I've decided to pivot my career towards web development. I'm enrolled in a nine-month, intensive, certified full-stack web development program, aiming for a qualification equivalent to a bachelor's degree. This program is designed around principles like independence, adaptability, and collaboration.</p>
+
+<p>
+  🎯 Internship Goals
+I'm on the lookout for the perfect opportunity to apply my learning in a real-world setting through a 12-month internship. 
+Ideally, this role would start from the second semester of 2024, allowing me to work 4 days per week while I complete my studies.</p>
+
+<p>
+💼 Why Me?
+Customer-focused: Nine years of experience ensuring customer satisfaction in a tech environment.
+Adaptable & Collaborative: Thrive in settings that require quick learning and teamwork.
+Technically Skilled: A strong foundation in web development technologies and best practices.</p>
+
+<p>
+📫 How to Reach Me
+GitHub: https://github.com/M0nline
+LinkedIn: https://www.linkedin.com/in/morganelemoal/
+Email: lets.morganise.it@gmail.com
 </p>
   
-  *To complement my learning, I am seeking the perfect company to undertake a 12-month internship (4 days per week starting from the second semester of 2024).*
 
-<p>I'm currently learning web development using :</p>
+<p>🌱 I'm Currently Learning:</p>
 <p align="left">
 <h2 align="left">Languages & frameworks</h2>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
