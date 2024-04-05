@@ -25,7 +25,7 @@ I'm a future Full-Stack Developer currently honing my skills at Ada Tech School 
 <p>
 GitHub: https://github.com/M0nline  </br>
 LinkedIn: https://www.linkedin.com/in/morganelemoal/  </br>
-Email: [lets.morganise.it@gmail.com](mailto:lets.morganise.it@gmail.com)
+Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morganise.it@gmail.com</a>
 </p>
 
 <h3>🌱 I'm Currently Learning:</h3>
