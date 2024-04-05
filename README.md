@@ -9,19 +9,19 @@ I'm a future Full-Stack Developer currently honing my skills at Ada Tech School 
 
   <h3>🎯 Internship Goals</h3>
 <p>
-I'm on the lookout for the perfect opportunity to apply my learning in a real-world setting through a 12-month internship. 
+I'm on the lookout for the perfect opportunity to apply my learning in a real-world setting through a 12-month internship.</br>
 Ideally, this role would start from July of 2024, allowing me to work 4 days per week while I complete my studies.</p>
 
 <h3>💼 Why Me?</h3>
 <p>
-Customer-focused: Nine years of experience ensuring customer satisfaction in a tech environment.
-Adaptable & Collaborative: Thrive in settings that require quick learning and teamwork.
+Customer-focused: Nine years of experience ensuring customer satisfaction in a tech environment.</br>
+Adaptable & Collaborative: Thrive in settings that require quick learning and teamwork.</br>
  Technically Skilled: A strong foundation in web development technologies and best practices.</p>
 
 <h3>📫 How to Reach Me</h3>
 <p>
-GitHub: https://github.com/M0nline  
-LinkedIn: https://www.linkedin.com/in/morganelemoal/  
+GitHub: https://github.com/M0nline  </br>
+LinkedIn: https://www.linkedin.com/in/morganelemoal/  </br>
 Email: lets.morganise.it@gmail.com  
 </p>
 
