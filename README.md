@@ -3,7 +3,7 @@
 
   <h3>🚀 About Me</h3>
 <p>
-I'm a future Full-Stack Developer currently honing my skills at Ada Tech School in Paris. </br>With a background of nine years in customer service within a SaaS environment, I've decided to pivot my career towards web development. </br>I'm enrolled in a nine-month, intensive, certified full-stack web development program, aiming for a qualification equivalent to a bachelor's degree.  </br>
+I'm a future full-stack software engineer currently honing my skills at Ada Tech School in Paris. </br>With a background of nine years in customer service within a SaaS environment, I've decided to pivot my career towards web development. </br>I'm enrolled in a nine-month, intensive, certified full-stack web development program, aiming for a qualification equivalent to a bachelor's degree.  </br>
   This program is designed around principles like independence, adaptability, and collaboration.</p>
 
 
