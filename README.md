@@ -11,7 +11,7 @@ I'm a future full-stack software engineer currently honing my skills at Ada Tech
 <p>
   
 * 12 months
-* starting July of 2024
+* starting July or September of 2024
 * 4 days per week</p>
 
 <h3>💼 Why Me?</h3>
