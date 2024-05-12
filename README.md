@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Morgane Le Moal</h1>
-<h3 align="center">Future full-stack developer currently studying at Ada Tech School in Paris</h3>
+<h3 align="center">Future full-stack software engineer currently studying at Ada Tech School in Paris</h3>
 
   <h3>🚀 About Me</h3>
 <p>
