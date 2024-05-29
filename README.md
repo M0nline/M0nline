@@ -31,7 +31,23 @@ Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morgani
 <h3>🌱 I'm Currently Learning:</h3>
 
 <p align="left">
-<h2 align="left">Languages & frameworks</h2>
+<h2 align="left">Back-end</h2>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-120px-Node.js_logo.svg.png"
+        alt="nodejs" height="40" /> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=1717632000&v=beta&t=eBHuk3eaUt67a7W2FwAEFv029Reo-BtO7DzdcRKMIrI"
+        alt="express" height="40" /> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
+        height="40" /> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel"
+        width="40" height="40" /> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+        width="40" height="40" /> </a>
+<h2 align="left">Front-end</h2>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5" width="40" height="40" /> </a>
@@ -41,12 +57,6 @@ Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morgani
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
         height="40" /> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-        height="40" /> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel"
-        width="40" height="40" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" /> </a>
@@ -56,15 +66,6 @@ Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morgani
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" /> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-120px-Node.js_logo.svg.png"
-        alt="nodejs" height="40" /> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=1717632000&v=beta&t=eBHuk3eaUt67a7W2FwAEFv029Reo-BtO7DzdcRKMIrI"
-        alt="express" height="40" /> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /> </a>
 <h2 align="left">Databases</h2>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
