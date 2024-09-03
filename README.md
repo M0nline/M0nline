@@ -1,25 +1,12 @@
 <h1 align="center">Hi 👋🏻, I'm Morgane Le Moal</h1>
-<h3 align="center">Future full-stack software engineer currently studying at Ada Tech School in Paris</h3>
+<h3 align="center">Full-stack developer currently in a work-study program</br>[Improba x Ada Tech School]</h3>
 
   <h3>🚀 About Me</h3>
 <p>
-I'm a future full-stack software engineer currently honing my skills at Ada Tech School in Paris. </br>With a background of nine years in customer service within a SaaS environment, I've decided to pivot my career towards web development. </br>I'm enrolled in a nine-month, intensive, certified full-stack web development program, aiming for a qualification equivalent to a bachelor's degree.  </br>
-  This program is designed around principles like independence, adaptability, and collaboration.</p>
-
-
-  <h3>🎯 Looking for an internship</h3>
-<p>
-  
-* 12 months
-* starting July or September of 2024
-* 4 days per week</p>
-
-<h3>💼 Why Me?</h3>
-<p>  
-  
-* **Customer-focused**: Nine years of experience ensuring customer satisfaction in a tech environment.</br>
-* **Adaptable & Collaborative**: Thrive in settings that require quick learning and teamwork.</br>
-* **Technically Skilled**: Foundations in web development technologies and best practices.</p>
+I'm a future full-stack developer currently expanding my skills through hands-on experience at Improba, where I'm completing my work-study program as part of my training at Ada Tech School in Paris. </br>
+With a strong foundation in customer service from nine years in a SaaS environment, I've made a career pivot towards web development. </br>
+I'm currently enrolled in an intensive twenty-one-month, certified full-stack web development program, aiming for a qualification equivalent to a bachelor's degree.  </br>
+This program emphasizes independence, adaptability, and collaboration, principles that I actively apply in my day-to-day work at Improba.</p>
 
 <h3>📫 How to Reach Me</h3>
 <p>
@@ -35,9 +22,8 @@ Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morgani
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-120px-Node.js_logo.svg.png"
         alt="nodejs" height="40" /> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=1717632000&v=beta&t=eBHuk3eaUt67a7W2FwAEFv029Reo-BtO7DzdcRKMIrI"
-        alt="express" height="40" /> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
         height="40" /> </a>
@@ -54,22 +40,27 @@ Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morgani
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
         width="40" height="40" /> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-        height="40" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript" width="40" height="40" /> </a>
+  
+   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
+   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
+  <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" /> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="40" height="40" /> </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+        height="40" /> </a></p>
+
 <h2 align="left">Databases</h2>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40" /> </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql" width="40" height="40" /> </a>
