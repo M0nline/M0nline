@@ -24,15 +24,7 @@ Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morgani
         alt="nodejs" height="40" /> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-        height="40" /> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel"
-        width="40" height="40" /> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /> </a>
+
 <h2 align="left">Front-end</h2>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -49,12 +41,7 @@ Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morgani
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
   <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-        height="40" /> </a></p>
+</p>
 
 <h2 align="left">Databases</h2>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
@@ -64,9 +51,7 @@ Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morgani
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql" width="40" height="40" /> </a>
-<a href="https://www.supabase.com" target="_blank" rel="noreferrer"> <img
-        src="https://yt3.googleusercontent.com/NuBWxGpdF0YzNSr7x_Tc8EEFXbQoHc0Xf9rU_ehxFPRikw8YPN886HltWeMDihKU8v5SeKFI3B4=s176-c-k-c0x00ffffff-no-rj"
-        alt="supabase" width="40" height="40" /> </a>
+
 <h2 align="left">Tools</h2>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
@@ -77,9 +62,7 @@ Email: <a href="mailto:lets.morganise.it@gmail.com" target="_blank">lets.morgani
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-<a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img
-        src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40"
-        height="40" /> </a>
+
 </p>
 
 <p align="center">
